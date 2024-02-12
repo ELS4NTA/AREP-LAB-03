@@ -10,12 +10,6 @@ Adiconal a esto permite realizar consultas a un API externo de [omdbapi](https:/
 
 Disfruta creando diferentes batidos de frutas y jugando a encontrar las parejas de cartas en el juego de memoria.
 
-![image](https://github.com/ELS4NTA/AREP-LAB-03/assets/99996670/d565b1e3-e430-474a-8e67-849ee35ce0f7)
-
-![image](https://github.com/ELS4NTA/AREP-LAB-03/assets/99996670/68ab98e1-6f78-4e1f-80bd-0f99abdcec0c)
-
-![image](https://github.com/ELS4NTA/AREP-LAB-03/assets/99996670/b657762d-ab9f-4b31-b1c0-07364ef58ead)
-
 ![image](https://github.com/ELS4NTA/AREP-LAB-03/assets/99996670/989e6918-df03-4170-976f-5bfb86d693c6)
 
 ## Comenzando 🚀
@@ -61,6 +55,10 @@ Diríjase a su navegador de preferencia y vaya a la siguiente dirección: [http:
 ![image](https://github.com/ELS4NTA/AREP-LAB-03/assets/99996670/55d90617-8b14-4715-a886-40098e9e75eb)
 
 ### Windows
+
+![image](https://github.com/ELS4NTA/AREP-LAB-03/assets/99996670/ac947786-0afd-4fe4-a18d-c2a9791e1a10)
+
+![image](https://github.com/ELS4NTA/AREP-LAB-03/assets/99996670/5181549f-7562-47d6-b02e-12a9314abd35)
 
 ## Ejecutando las pruebas ⚙️
 
