@@ -54,6 +54,14 @@ El anterior comando limpiará las contrucciones previas, compilará y empaquetar
 
 Diríjase a su navegador de preferencia y vaya a la siguiente dirección: [http://localhost:35000/index.html](http://localhost:35000/index.html) para ver la aplicación en funcionamiento.
 
+### Linux
+
+![image](https://github.com/ELS4NTA/AREP-LAB-03/assets/99996670/3dc78a69-67cc-49a0-801b-6497e1588de8)
+
+![image](https://github.com/ELS4NTA/AREP-LAB-03/assets/99996670/55d90617-8b14-4715-a886-40098e9e75eb)
+
+### Windows
+
 ## Ejecutando las pruebas ⚙️
 
 Para ejecutar las pruebas, ejecute el siguiente comando:
